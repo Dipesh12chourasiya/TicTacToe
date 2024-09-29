@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.firstandroidproject"
+    namespace = "com.example.myapplication"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.firstandroidproject"
-        minSdk = 16
+        applicationId = "com.example.myapplication"
+        minSdk = 28
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
